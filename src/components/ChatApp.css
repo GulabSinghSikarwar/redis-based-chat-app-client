@@ -1,0 +1,8 @@
+/* styles.css (or wherever you define your CSS) */
+.chat-app {
+    background-color: #c1d3fe;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
